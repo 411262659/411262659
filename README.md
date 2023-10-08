@@ -14,13 +14,13 @@
         <h2>Cat Lists</h2>
         <h3>Things 閃電十一人 love:</h3>
         <ul>
-          <li>cat nip</li>
-          <li>laser pointers</li>
-          <li>lasagna</li>
+          <li>soccer</li>
+          <li>friends</li>
+          <li>rice balls</li>
         </ul>
         <figure>
           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-          <figcaption>閃電十一人 <em>love</em> lasagna.</figcaption>  
+          <figcaption>閃電十一人 <em>love</em> rice balls.</figcaption>  
         </figure>
         <h3>Top 3 things 閃電十一人 hate:</h3>
         <ol>
