@@ -1,53 +1,55 @@
 
-
 <html>
   <body>
     <main>
-      <h1>嘿嘿嘿</h1>
+      <h1>Basketball Madness</h1>
       <section>
-        <h2>閃電十一人</h2>
-        <!-- TODO: Add link to 閃電十一人 photos -->
-        <p>See more <a target="_blank" href="https://freecatphotoapp.com">閃電十一人 photos</a> in our gallery.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+        <h2>Top Basketball Moments</h2>
+        <!-- TODO: Add link to basketball photos -->
+        <p>Witness more <a target="_blank" href="https://basketballmadness.com">basketball action</a> in our gallery.</p>
+        <a href="https://basketballmadness.com"><img src="https://example.com/basketball-photo.jpg" alt="A thrilling basketball game in progress."></a>
       </section>
       <section>
-        <h2>Cat Lists</h2>
-        <h3>Things 閃電十一人 love:</h3>
+        <h2>Basketball Legends</h2>
+        <h3>Legendary basketball players:</h3>
         <ul>
-          <li>soccer</li>
-          <li>friends</li>
-          <li>rice balls</li>
+          <li>Michael Jordan</li>
+          <li>LeBron James</li>
+          <li>Kobe Bryant</li>
         </ul>
         <figure>
-          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-          <figcaption>閃電十一人 <em>love</em> rice balls.</figcaption>  
+          <img src="https://example.com/basketball-legend.jpg" alt="An iconic image of Michael Jordan in action.">
+          <figcaption>Remembering the basketball legends.</figcaption>  
         </figure>
-        <h3>Top 3 things 閃電十一人 hate:</h3>
+        <h3>Top Basketball Teams:</h3>
         <ol>
-          <li>flea treatment</li>
-          <li>thunder</li>
-          <li>other 閃電十一人</li>
+          <li>Los Angeles Lakers</li>
+          <li>Boston Celtics</li>
+          <li>Golden State Warriors</li>
         </ol>
         <figure>
-          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five 閃電十一人 looking around a field.">
-          <figcaption>閃電十一人 <strong>hate</strong> other 閃電十一人.</figcaption>  
+          <img src="https://example.com/basketball-team.jpg" alt="A group shot of a basketball team celebrating a victory.">
+          <figcaption>The spirit of teamwork in basketball.</figcaption>  
         </figure>
       </section>
       <section>
-        <h2>Cat Form</h2>
-        <form action="https://freecatphotoapp.com/submit-cat-photo">
+        <h2>Join the Basketball Community</h2>
+        <form action="https://basketballmadness.com/submit-basketball-photo">
           <fieldset>
-            <legend>Is your 閃電十一人 an indoor or outdoor 閃電十一人?</legend>
-            <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> Indoor</label>
-            <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
+            <legend>Are you a basketball enthusiast?</legend>
+            <label><input id="yes" type="radio" name="enthusiast" value="yes"> Yes</label>
+            <label><input id="no" type="radio" name="enthusiast" value="no"> No</label>
           </fieldset>
           <fieldset>
-            <legend>What's your 閃電十一人's personality?</legend>
-            <input id="loving" type="checkbox" name="personality" value="loving"> <label for="loving">Loving</label>
-            <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
-            <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic"> Energetic</label>
+            <legend>Which is your favorite NBA team?</legend>
+            <select name="favorite-team">
+              <option value="lakers">Los Angeles Lakers</option>
+              <option value="celtics">Boston Celtics</option>
+              <option value="warriors">Golden State Warriors</option>
+              <!-- Add more NBA teams here -->
+            </select>
           </fieldset>
-          <input type="text" name="catphotourl" placeholder="閃電十一人 photo URL" required>
+          <input type="text" name="basketballphotourl" placeholder="Basketball photo URL" required>
           <button type="submit">Submit</button>
         </form>
       </section>
