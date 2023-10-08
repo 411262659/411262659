@@ -6,8 +6,8 @@
       <section>
         <h2>Top Basketball Moments</h2>
         <!-- TODO: Add link to basketball photos -->
-        <p>Witness more <a target="_blank" href="[https://basketballmadness.com](https://scontent.xx.fbcdn.net/v/t1.15752-9/387519582_1049659249375592_5002247218558253044_n.jpg?stp=dst-jpg_p403x403&_nc_cat=110&ccb=1-7&_nc_sid=aee45a&_nc_ohc=mUyWopCcMZYAX-3xDOO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS5fJ0pgfQ-k0GvMMeFcS1UJtilO-zSnBWVNk9my0zsDg&oe=6549C891)">basketball action</a> in our gallery.</p>
-        <a href="https://basketballmadness.com"><img src="https://example.com/basketball-photo.jpg" alt="A thrilling basketball game in progress."></a>
+        <p>Witness more <a target="_blank" href="https://basketballmadness.com">basketball action</a> in our gallery.</p>
+        <a href="https://basketballmadness.com"><img src="https://images.chinatimes.com/newsphoto/2021-02-21/656/ANBA00_P_01_01.jpg" alt="A thrilling basketball game in progress."></a>
       </section>
       <section>
         <h2>Basketball Legends</h2>
@@ -18,7 +18,7 @@
           <li>Kobe Bryant</li>
         </ul>
         <figure>
-          <img src="https://example.com/basketball-legend.jpg" alt="An iconic image of Michael Jordan in action.">
+          <img src="https://cc.tvbs.com.tw/img/upload/2023/09/11/20230911225418-42cc873f.jpg" alt="An iconic image of Michael Jordan in action.">
           <figcaption>Remembering the basketball legends.</figcaption>  
         </figure>
         <h3>Top Basketball Teams:</h3>
@@ -28,7 +28,7 @@
           <li>Golden State Warriors</li>
         </ol>
         <figure>
-          <img src="https://example.com/basketball-team.jpg" alt="A group shot of a basketball team celebrating a victory.">
+          <img src="https://thumbor.4gamers.com.tw/F83vNlkezpOSILlC0zINb-lNwjA=/800x0/filters:extract_cover():no_upscale():quality(80)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fc2bf9e46873f7b9da6e9d1f9358361fd16b65f5d.jpg" alt="A group shot of a basketball team celebrating a victory.">
           <figcaption>The spirit of teamwork in basketball.</figcaption>  
         </figure>
       </section>
@@ -54,5 +54,8 @@
         </form>
       </section>
     </main>
+  </body>
+</html>
+
   </body>
 </html>
