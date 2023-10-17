@@ -1,60 +1,63 @@
 
+<!DOCTYPE html>
 <html>
   <body>
     <main>
-      <h1>Basketball Madness</h1>
+      <h1>Doggy Delights</h1>
       <section>
-        <h2>Top Basketball Moments</h2>
-        <!-- TODO: Add link to basketball photos -->
-        <p>Witness more <a target="_blank" href="https://basketballmadness.com">basketball action</a> in our gallery.</p>
-        <a href="https://basketballmadness.com"><img src="https://images.chinatimes.com/newsphoto/2021-02-21/656/ANBA00_P_01_01.jpg" alt="A thrilling basketball game in progress."></a>
+        <h2>Top Dog Moments</h2>
+        <!-- TODO: Add link to dog photos -->
+        <p>Experience more <a target="_blank" href="https://doggydelights.com">adorable dog moments</a> in our gallery.</p>
+        <a href="https://doggydelights.com"><img src="https://example.com/dog-image.jpg" alt="A cute dog enjoying the day."></a>
       </section>
       <section>
-        <h2>Basketball Legends</h2>
-        <h3>Legendary basketball players:</h3>
+        <h2>Doggy Superstars</h2>
+        <h3>Famous dogs:</h3>
         <ul>
-          <li>Michael Jordan</li>
-          <li>LeBron James</li>
-          <li>Kobe Bryant</li>
+          <li>Lassie</li>
+          <li>Scooby-Doo</li>
+          <li>Buddy (from Air Bud)</li>
         </ul>
         <figure>
-          <img src="https://cc.tvbs.com.tw/img/upload/2023/09/11/20230911225418-42cc873f.jpg" alt="An iconic image of Michael Jordan in action.">
-          <figcaption>Remembering the basketball legends.</figcaption>  
+          <img src="https://example.com/lassie-image.jpg" alt="An iconic image of Lassie the heroic dog.">
+          <figcaption>Celebrating the doggy superstars.</figcaption>
         </figure>
-        <h3>Top Basketball Teams:</h3>
+        <h3>Beloved Dog Breeds:</h3>
         <ol>
-          <li>Los Angeles Lakers</li>
-          <li>Boston Celtics</li>
-          <li>Golden State Warriors</li>
+          <li>Golden Retriever</li>
+          <li>Labrador Retriever</li>
+          <li>Poodle</li>
         </ol>
         <figure>
-          <img src="https://thumbor.4gamers.com.tw/F83vNlkezpOSILlC0zINb-lNwjA=/800x0/filters:extract_cover():no_upscale():quality(80)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fc2bf9e46873f7b9da6e9d1f9358361fd16b65f5d.jpg" alt="A group shot of a basketball team celebrating a victory.">
-          <figcaption>The spirit of teamwork in basketball.</figcaption>  
+          <img src="https://example.com/golden-retriever.jpg" alt="A beautiful Golden Retriever posing for the camera.">
+          <figcaption>The diversity of dog breeds.</figcaption>
         </figure>
       </section>
       <section>
-        <h2>Join the Basketball Community</h2>
-        <form action="https://basketballmadness.com/submit-basketball-photo">
+        <h2>Join the Dog Lovers Community</h2>
+        <form action="https://doggydelights.com/submit-dog-photo">
           <fieldset>
-            <legend>Are you a basketball enthusiast?</legend>
+            <legend>Are you a dog enthusiast?</legend>
             <label><input id="yes" type="radio" name="enthusiast" value="yes"> Yes</label>
             <label><input id="no" type="radio" name="enthusiast" value="no"> No</label>
           </fieldset>
           <fieldset>
-            <legend>Which is your favorite NBA team?</legend>
-            <select name="favorite-team">
-              <option value="lakers">Los Angeles Lakers</option>
-              <option value="celtics">Boston Celtics</option>
-              <option value="warriors">Golden State Warriors</option>
-              <!-- Add more NBA teams here -->
+            <legend>Which is your favorite dog breed?</legend>
+            <select name="favorite-breed">
+              <option value="golden">Golden Retriever</option>
+              <option value="labrador">Labrador Retriever</option>
+              <option value="poodle">Poodle</option>
+              <!-- Add more dog breeds here -->
             </select>
           </fieldset>
-          <input type="text" name="basketballphotourl" placeholder="Basketball photo URL" required>
+          <input type="text" name="dogphotourl" placeholder="Dog photo URL" required>
           <button type="submit">Submit</button>
         </form>
       </section>
     </main>
   </body>
+</html>
+
 </html>
 
   </body>
