@@ -7,7 +7,7 @@
         <h2>Top Rap Moments</h2>
         <!-- TODO: Add link to rap artist photos -->
         <p>Witness more <a target="_blank" href="https://raplegends.com">epic rap moments</a> in our gallery.</p>
-        <a href="https://raplegends.com"><img src="https://tse2.mm.bing.net/th?id=OIP.sJ-HlAipXC0S7VyYY-GrwgHaEK&pid=Api&P=0&h=180" alt="A dynamic rap performance in action."></a>
+        <a href="https://raplegends.com"><img src="https://images5.alphacoders.com/869/thumb-1920-869330.jpg" alt="A dynamic rap performance in action."></a>
       </section>
       <section>
         <h2>Rap Icons</h2>
@@ -18,7 +18,7 @@
           <li>Notorious B.I.G.</li>
         </ul>
         <figure>
-          <img src="https://tse2.mm.bing.net/th?id=OIP.BptgEcLc2lYS2XwzhnrvogHaF-&pid=Api&P=0&h=180" alt="An iconic image of Eminem on stage.">
+          <img src="https://pic2.zhimg.com/2ddf09098a95f4cf9b8bbd2fa393bea8_r.jpg?source=1940ef5c">
           <figcaption>Celebrating the rap icons.</figcaption>
         </figure>
         <h3>Top Rap Groups:</h3>
@@ -28,7 +28,7 @@
           <li>Run-D.M.C.</li>
         </ol>
         <figure>
-          <img src="https://tse3.mm.bing.net/th?id=OIP.yNiYWfHzsPrkYnj728zUKQHaD4&pid=Api&P=0&h=180" alt="Wu-Tang Clan members in a group shot.">
+          <img src="https://img.redbull.com/images/c_fill,w_1200,h_630,g_auto,f_auto,q_auto/redbullcom/2019/11/09/0fc2d2af-420d-4e37-8499-f3da5689ed31/wutang2">
           <figcaption>The power of rap groups.</figcaption>
         </figure>
       </section>
