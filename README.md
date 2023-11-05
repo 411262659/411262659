@@ -40,6 +40,21 @@
       </section>
     </main>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="script.js"></script> <!-- 引入外部 JavaScript 文件 -->
+    <script>
+      $(document).ready(function() {
+        $("#add-player").click(function() {
+          var newPlayerName = prompt("Enter the name of the new player:");
+          if (newPlayerName) {
+            $("ul").append("<li>" + newPlayerName + "</li>");
+          }
+        });
+        $("form").submit(function(event) {
+          event.preventDefault();
+          var selectedPlayer = $("#favorite-player").val();
+          var photoUrl = $("input[name='nbaphotourl']").val();
+          alert("Favorite Player: " + selectedPlayer + "\nNBA Photo URL: " + photoUrl);
+        });
+      });
+    </script>
   </body>
 </html>
