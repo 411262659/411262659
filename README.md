@@ -47,7 +47,7 @@
       $(document).ready(function() {
         // 使用jQuery为图像添加单击事件处理
         $("#nba-image").click(function() {
-          alert("hi");
+          alert("您单击了NBA图像！");
         });
       });
     </script>
