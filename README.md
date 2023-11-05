@@ -7,7 +7,7 @@
         <h2>Top NBA Moments</h2>
         <!-- TODO: Add link to NBA player photos -->
         <p>Witness more <a target="_blank" href="https://nba.com">epic NBA moments</a> in our gallery.</p>
-        <a href="https://nba.com"><img src="https://example.com/nba-image.jpg" alt="A dynamic NBA game in action."></a>
+        <a href="https://nba.com"><img src="https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/1139B/production/_110655507_kb.jpg" alt="A dynamic NBA game in action."></a>
       </section>
       <section>
         <h2>NBA Icons</h2>
@@ -19,7 +19,7 @@
           <!-- Add more NBA players here -->
         </ul>
         <figure>
-          <img src="https://example.com/nba-icon-image.jpg">
+          <img src="https://cdn.nba.com/manage/2021/08/michael-jordan-looks.jpg">
           <figcaption>Celebrating the NBA icons.</figcaption>
         </figure>
         <h3>Top NBA Teams:</h3>
@@ -30,7 +30,7 @@
           <!-- Add more NBA teams here -->
         </ol>
         <figure>
-          <img src="https://example.com/nba-teams-image.jpg">
+          <img src="https://media.zenfs.com/en/sportsv.net/c2aa805bf81ac2dc5318b34ae72417e1">
           <figcaption>The power of NBA teams.</figcaption>
         </figure>
       </section>
@@ -58,4 +58,3 @@
     </main>
   </body>
 </html>
-
